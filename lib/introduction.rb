@@ -1,4 +1,3 @@
-#introduction
-
 def introduction
 end
+
